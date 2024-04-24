@@ -1,4 +1,4 @@
-name: Auto-Green
+name: blossoms
 
 on:
   workflow_dispatch:
